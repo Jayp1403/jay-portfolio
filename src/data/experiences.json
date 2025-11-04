@@ -1,0 +1,87 @@
+[
+  {
+    "id": "shopify",
+    "title": "Systems Administrator",
+    "company": "Shopify",
+    "duration": "Jan 2025 \u2013 Oct 2025",
+    "description": "Supported Azure AD and Microsoft 365 environments, collaborated on Azure resource governance, and automated provisioning and reporting using PowerShell and Python.",
+    "results": [
+      "Improved Azure resource organization through tagging standards and policy alignment.",
+      "Built automation scripts for user lifecycle and health checks to reduce manual effort.",
+      "Contributed to migration of legacy workloads to Azure VMs and storage."
+    ],
+    "tools": [
+      "Azure",
+      "Microsoft 365",
+      "Azure AD / Entra ID",
+      "PowerShell",
+      "Python",
+      "Policy",
+      "Tagging",
+      "VMs"
+    ]
+  },
+  {
+    "id": "intouchcx",
+    "title": "Technical Support Specialist",
+    "company": "IntouchCX",
+    "duration": "Nov 2023 \u2013 Dec 2024",
+    "description": "Provided L2/L3 support for Windows, Active Directory, and cloud services with a focus on uptime and performance. Assisted with Intune, GPO, and ServiceNow operations.",
+    "results": [
+      "Maintained service reliability through ticket triage and incident/change management.",
+      "Deployed endpoint systems and authentication flows using Azure AD, Intune, and GPO.",
+      "Implemented monitoring dashboards for proactive issue detection."
+    ],
+    "tools": [
+      "Windows",
+      "Active Directory",
+      "Azure AD",
+      "Intune",
+      "GPO",
+      "ServiceNow",
+      "Monitoring"
+    ]
+  },
+  {
+    "id": "freelance",
+    "title": "Freelance Cloud & Systems Engineer",
+    "company": "Self-Employed",
+    "duration": "Nov 2023 \u2013 Present",
+    "description": "Delivered AWS infrastructure for small businesses and automated provisioning using Terraform and CI/CD pipelines. Integrated monitoring for resilience and performance.",
+    "results": [
+      "Deployed EC2, S3, IAM, and RDS across environments for scalable workloads.",
+      "Authored Terraform modules for reusable multi-account infrastructure.",
+      "Set up GitHub Actions workflows for automated deployments and config management.",
+      "Integrated Datadog and CloudWatch for performance alerts and observability."
+    ],
+    "tools": [
+      "AWS",
+      "EC2",
+      "S3",
+      "IAM",
+      "RDS",
+      "Terraform",
+      "GitHub Actions",
+      "Datadog",
+      "CloudWatch",
+      "Python"
+    ]
+  },
+  {
+    "id": "skip",
+    "title": "Digital Content Programmer",
+    "company": "SkipTheDishes",
+    "duration": "Aug 2021 \u2013 Oct 2023",
+    "description": "Supported internal applications and backend systems with a focus on data consistency and operational integrity. Contributed to content automation using Python and APIs.",
+    "results": [
+      "Maintained data quality and stability across internal content tools.",
+      "Built Python scripts and API integrations to streamline workflows."
+    ],
+    "tools": [
+      "Python",
+      "APIs",
+      "Automation",
+      "Content Systems"
+    ]
+  }
+]
