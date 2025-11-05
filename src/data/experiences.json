@@ -3,22 +3,33 @@
     "id": "shopify",
     "title": "Systems Administrator",
     "company": "Shopify",
-    "duration": "Jan 2025 \u2013 Oct 2025",
-    "description": "Supported Azure AD and Microsoft 365 environments, collaborated on Azure resource governance, and automated provisioning and reporting using PowerShell and Python.",
-    "results": [
-      "Improved Azure resource organization through tagging standards and policy alignment.",
-      "Built automation scripts for user lifecycle and health checks to reduce manual effort.",
-      "Contributed to migration of legacy workloads to Azure VMs and storage."
+    "duration": "Jan 2025 – Oct 2025",
+
+    "overview": "Supported Azure AD and Microsoft 365 environments, optimized resource governance, and automated provisioning workflows to improve efficiency and security.",
+
+    "responsibilities": [
+      "Administered and maintained Microsoft 365 and Azure AD identity environments, ensuring compliance, MFA enforcement, and secure access.",
+      "Collaborated with cloud engineers to optimize Azure resource allocation using tagging and cost governance policies.",
+      "Automated repetitive administrative tasks such as user onboarding/offboarding, access reviews, reporting, and license management using PowerShell and Python scripts.",
+      "Supported workload migration from legacy infrastructure to Azure Virtual Machines and Blob Storage, improving performance and scalability.",
+      "Integrated configuration management tools to automate patching, monitoring, and software deployment across systems."
     ],
+
+    "results": [
+      "Reduced administrative overhead by 30% through automation scripts for provisioning and reporting.",
+      "Improved Azure cost efficiency by 20% using enforcement of policy-driven resource tagging and deallocation schedules.",
+      "Enhanced user provisioning reliability and auditability, reducing manual ticket handling."
+    ],
+
     "tools": [
       "Azure",
-      "Microsoft 365",
-      "Azure AD / Entra ID",
       "PowerShell",
       "Python",
-      "Policy",
-      "Tagging",
-      "VMs"
+      "Microsoft 365",
+      "Azure Policy",
+      "Azure AD / Entra ID",
+      "Terraform",
+      "Virtual Machines"
     ]
   },
   {
@@ -26,7 +37,13 @@
     "title": "Technical Support Specialist",
     "company": "IntouchCX",
     "duration": "Nov 2023 \u2013 Dec 2024",
-    "description": "Provided L2/L3 support for Windows, Active Directory, and cloud services with a focus on uptime and performance. Assisted with Intune, GPO, and ServiceNow operations.",
+    "overview": "Provided L2/L3 support for Windows, Active Directory, and cloud services with a focus on uptime and performance. Assisted with Intune, GPO, and ServiceNow operations.",
+    "responsibilities": [
+      "Delivered second- and third-line technical support to resolve infrastructure and system issues across global teams.",
+      "Managed user authentication and endpoint configuration using Azure AD, Intune, and Group Policy Objects.",
+      "Supported enterprise change and incident management workflows through ServiceNow.",
+      "Built custom monitoring dashboards and alert automations for system health tracking."
+    ],
     "results": [
       "Maintained service reliability through ticket triage and incident/change management.",
       "Deployed endpoint systems and authentication flows using Azure AD, Intune, and GPO.",
@@ -47,7 +64,15 @@
     "title": "Freelance Cloud & Systems Engineer",
     "company": "Self-Employed",
     "duration": "Nov 2023 \u2013 Present",
-    "description": "Delivered AWS infrastructure for small businesses and automated provisioning using Terraform and CI/CD pipelines. Integrated monitoring for resilience and performance.",
+    "overview": "Delivered AWS infrastructure for small businesses and automated provisioning using Terraform and CI/CD pipelines. Integrated monitoring for resilience and performance.",
+    "responsibilities": [
+      "Designed and implemented AWS infrastructure using Terraform for reproducibility and version control.",
+      "Deployed EC2, S3, IAM, and RDS instances to support scalable small business applications.",
+      "Built GitHub Actions pipelines for automated provisioning and deployment workflows.",
+      "Integrated Datadog and CloudWatch for centralized observability and performance insights.",
+      "Developed infrastructure documentation and client handover guides for long-term maintenance."
+    ],
+
     "results": [
       "Deployed EC2, S3, IAM, and RDS across environments for scalable workloads.",
       "Authored Terraform modules for reusable multi-account infrastructure.",
@@ -72,7 +97,12 @@
     "title": "Digital Content Programmer",
     "company": "SkipTheDishes",
     "duration": "Aug 2021 \u2013 Oct 2023",
-    "description": "Supported internal applications and backend systems with a focus on data consistency and operational integrity. Contributed to content automation using Python and APIs.",
+    "overview": "Supported internal applications and backend systems with a focus on data consistency and operational integrity. Contributed to content automation using Python and APIs.",
+    "responsibilities": [
+      "Created and optimized Python scripts to automate content updates and data validation tasks.",
+      "Integrated APIs to synchronize menu and partner data between internal systems and external providers.",
+      "Collaborated with backend developers to maintain consistent data quality and improve automation throughput."
+    ],
     "results": [
       "Maintained data quality and stability across internal content tools.",
       "Built Python scripts and API integrations to streamline workflows."

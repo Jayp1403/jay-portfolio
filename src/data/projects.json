@@ -1,0 +1,32 @@
+[
+    {
+      "id": "wealth-ai",
+      "title": "Wealth Management AI App",
+      "description": "An intelligent wealth tracker that analyzes your spending, investments, and financial goals in real time using AI-driven insights.",
+      "video": "https://s3.us-east-1.amazonaws.com/jayportfolio.ca/videos/wealth.mp4",
+      "highlights": [
+        "Built a full-stack wealth management platform with real-time portfolio tracking and expense analytics.",
+        "Integrated live stock market APIs for on-the-fly portfolio valuation updates.",
+        "Developed an AI financial advisor to detect spending inefficiencies and recommend savings/investment actions.",
+        "Designed visual dashboards and analytics charts for goal progression and wealth history.",
+        "Cloud-hosted backend using AWS Lambda and DynamoDB, optimized for scalable serverless compute."
+      ],
+      "results": [
+        "Achieved near real-time wealth recalculations using WebSocket streaming.",
+        "Reduced user financial inefficiencies by up to 15% through AI-driven detection.",
+        "Enabled predictive insights to accelerate financial goal achievement."
+      ],
+      "tools": [
+        "React",
+        "Node.js",
+        "AWS Lambda",
+        "DynamoDB",
+        "WebSockets",
+        "Python",
+        "AI/ML Models"
+      ],
+      "github": "https://github.com/",
+      "demo": ""
+    }
+  ]
+  
