@@ -49,11 +49,11 @@ export default function Home() {
               className="px-4 py-2 rounded-xl bg-accent text-black font-medium shadow-glow"
               href="mailto:Jayp11827@gmail.com"
             >
-              Email Me
+              Email : Jayp1403@outlook.com
             </a>
             <a
               className="px-4 py-2 rounded-xl border border-neutral-800 hover:border-accent"
-              href="https://github.com/"
+              href="https://github.com/Jayp1403"
               target="_blank"
               rel="noreferrer"
             >
@@ -61,7 +61,7 @@ export default function Home() {
             </a>
             <a
               className="px-4 py-2 rounded-xl border border-neutral-800 hover:border-accent"
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/in/pateljay14/"
               target="_blank"
               rel="noreferrer"
             >
