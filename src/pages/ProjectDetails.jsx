@@ -27,7 +27,7 @@ export default function ProjectDetails() {
         <div className="mt-4 flex flex-wrap gap-2">
           <a>
           <button
-      onClick={() => window.open("https://s3.us-east-1.amazonaws.com/jayportfolio.ca/wealth.mp4", "_blank")}
+      onClick={() => window.open("https://jay-cloud-bucket.s3.us-east-2.amazonaws.com/wealth.mp4", "_blank")}
       className="px-5 py-3 rounded-xl bg-accent text-black font-medium shadow-glow"
     >
       Please Click Here for the Video
@@ -63,21 +63,3 @@ export default function ProjectDetails() {
 }
 
 
-import { motion } from "framer-motion";
-import { useState } from "react";
-
-function Packet({ delay }) {
-  return (
-    <motion.div
-      className="absolute w-2 h-2 bg-accent rounded-full shadow-[0_0_10px_#00eaff]"
-      initial={{ opacity: 0, x: -50 }}
-      animate={{ opacity: [0, 1, 1, 0], x: [0, 100, 160, 220] }}
-      transition={{
-        repeat: Infinity,
-        duration: 2.2,
-        delay,
-        ease: "easeInOut",
-      }}
-    />
-  );
-}

@@ -58,7 +58,7 @@ export default function Deployment() {
           className="w-full rounded-xl shadow-2xl border border-neutral-800"
         >
           <source
-            src="https://s3.us-east-1.amazonaws.com/jayportfolio.ca/intro.mp4"
+            src="https://jay-cloud-bucket.s3.us-east-2.amazonaws.com/intro.mp4"
             type="video/mp4"
           />
         </video>

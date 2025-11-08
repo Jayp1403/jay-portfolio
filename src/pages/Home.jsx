@@ -4,6 +4,7 @@ import ProjectCard from '../components/ProjectCard'
 import projects from '../data/projects.json'
 import data from '../data/experiences.json'
 
+
 export default function Home() {
 
   console.log("Experiences loaded:", data);
@@ -21,6 +22,10 @@ export default function Home() {
           ))}
         </div>
       </section>
+
+      {/* ✅ Google */}
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7145500953992883"
+     crossorigin="anonymous"></script>
 
       <section id="projects" className="max-w-6xl mx-auto px-4 pb-24">
   <h2 className="text-2xl md:text-3xl font-semibold mb-8">Projects</h2>
